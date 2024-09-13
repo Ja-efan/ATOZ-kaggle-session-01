@@ -10,10 +10,12 @@
 1. **Customer ID**  (numeric)  
   고객의 고유 ID
 
+    - 중복이 존재함 (Distinct 14.1%)
+
 2. **Surname**  (*object*)  
   고객의 이름(성)
 
-3. **Credit Score**  (numeric)  
+3. **CreditScore**  (numeric)  
   고객 신용 점수  
   
 4. **Geography**  (*object*)  
