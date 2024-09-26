@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/venv,python,pycharm,visualstudiocode,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=venv,python,pycharm,visualstudiocode,macos,windows
 
+### data ### 
+안전 운전자 예측.pdf
+Safe_Driver_Prediction/data/
+Safe_Driver_Prediction/data/train.csv
+Safe_Driver_Prediction/data/test.csv
+Safe_Driver_Prediction/data/sample_submission.csv
+
 ### macOS ###
 # General
 .DS_Store
